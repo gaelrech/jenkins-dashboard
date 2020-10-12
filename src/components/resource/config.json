@@ -1,0 +1,37 @@
+{ 
+  "build":
+  [
+    {
+      "team": "Latam",
+      "unitTests":
+      [
+        {
+          "system": "EHR",
+          "service": ""       
+        },
+        {
+          "system": "QHR",
+          "service": ""
+        }
+      ],
+      "cleanCode":
+      [
+        {
+          "system": "EHR",
+          "service": ""
+        }
+      ],
+      "checkman":
+      [
+        {
+          "system": "C6Z",
+          "service": ""       
+        },
+        {
+          "system": "CHR",
+          "service": ""       
+        }      
+      ]      
+    }
+  ]
+}
